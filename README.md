@@ -17,7 +17,6 @@
 
 <div>
 - Cursando faculdade de Engenharia de Software <br>
-- Estudando Desenvolvimento web front-end
 </div>
 
 
