@@ -1,9 +1,6 @@
 ### Bem vindo, eu sou o Entony Maxwell
 ##
-<div align="center">
-  <a href="https://github.com/entonymaxwell01">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=transparent)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entonymaxwell01&layout=compact&langs_count=7&theme=midnight-purple"/>
