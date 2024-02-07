@@ -2,7 +2,7 @@
 ##
 <div align="center">
   <a href="https://github.com/entonymaxwell01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=transparent)
 </div>
 
 <div style="display: inline_block"><br>
