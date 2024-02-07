@@ -1,18 +1,15 @@
-### Bem vindo, eu sou o Entony Maxwell
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=midnight-purple)
+## Bem vindo, eu sou o Entony Maxwell
+### Cursando faculdade de Engenharia de Software <br>
 
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entonymaxwell01&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+&nbsp;
+&nbsp;
 
-##
-
-<div>
-- Cursando faculdade de Engenharia de Software <br>
-</div>
-
-
+<a href="https://github.com/entonymaxwell01/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/entonymaxwell01/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=entonymaxwell01&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 <!--
 **entonymaxwell01/entonymaxwell01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
