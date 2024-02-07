@@ -1,18 +1,32 @@
-## Bem vindo, eu sou o Entony Maxwell
-### Cursando faculdade de Engenharia de Software <br>
+<h1 align="left">Hello, welcome</h1>
 
-&nbsp;
-&nbsp;
+###
 
-<a href="https://github.com/entonymaxwell01/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/entonymaxwell01/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=entonymaxwell01&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-<!--
-**entonymaxwell01/entonymaxwell01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">My name is Entony Maxwell, I am studying Quality Assurance</p>
 
-Here are some ideas to get you started:
+###
 
--->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating tests since 2021<br>📚 University in software engineering<br>🎯 Be a very good QA</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<a href="https://github.com/entonymaxwell01/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=radical" /> </a>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
