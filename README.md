@@ -1,8 +1,8 @@
 #  Entony Maxwell
 
-**`Engenheiro de Software`**
+**`Quality Assurance`**
 
-Olá, me chamo Entony Maxwell, tenho 20 anos e sou natural do Ceará. Sou técnico em informática formado pela EEEP. Atualmente, estou cursando o curso de Engenharia de Software pela Universidade Federal do Ceará (UFC). Sou fascinado por técnologia e minhas principais áreas de interesse são desenvolvimento web, qualidade de software, testes automatizados e engenharia de software.
+Olá, me chamo Entony Maxwell, tenho 20 anos e sou natural do Ceará. Sou técnico em informática. Atualmente, estou cursando o curso de Engenharia de Software pela Universidade Federal do Ceará (UFC). Sou fascinado por técnologia e minhas principais áreas de interesse são qualidade de software e engenharia de software.
 
 ###
 
@@ -12,7 +12,8 @@ Olá, me chamo Entony Maxwell, tenho 20 anos e sou natural do Ceará. Sou técni
 
 ###
 
-<p align="left">Estudo programação desde 2019, tenho experiência em progração web, principalmente desevolvimento de API REST com NodeJs. Também tenhho conhecimentos em bancos dados relacionais e não relacionais e atualmente estou estudante testes automatizados como Cypress, Selenium e Robot Framework.</p>
+<p align="left">Estudo programação desde 2019, tenho experiência em progração web, principalmente desevolvimento de API REST com NodeJs. Também tenhho conhecimentos em bancos dados relacionais e não relacionais e em testes automatizados E2E com Cypress, Selenium e Robot Framework e testes unitários com Junit e Jest.</p>
+<p align="left">Minha principal área atualemente é a Qualidade de Software, onde tenho experiência em testes automatizados usando Junit, para testes unitários em Java, e Cypress, para testes E2E tanto para testes de API e Front-end </p>
 
 ###
 
@@ -23,17 +24,11 @@ Olá, me chamo Entony Maxwell, tenho 20 anos e sou natural do Ceará. Sou técni
 </div>
 <br>
 
-<p> Desenvolvimento web: </p> 
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs," />
-</div>
-<br>
 
 <p> Ferramentas de teste: </p> 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cypress,selenium" />
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman" />
 </div>
 <br>
 
