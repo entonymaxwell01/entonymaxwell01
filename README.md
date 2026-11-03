@@ -1,53 +1,78 @@
-#  Entony Maxwell
+# Olá! Eu sou Entony Maxwell 👋
 
-**`Quality Assurance`**
+### Quality Assurance | Test Automation | Software Engineering
 
-Olá, me chamo Entony Maxwell, tenho 20 anos e sou natural do Ceará. Sou técnico em informática. Atualmente, estou cursando o curso de Engenharia de Software pela Universidade Federal do Ceará (UFC). Sou fascinado por técnologia e minhas principais áreas de interesse são qualidade de software e engenharia de software.
+Sou graduando em Engenharia de Software pela Universidade Federal do Ceará (UFC) e Técnico em Informática, com atuação na área de Quality Assurance.
 
-###
+Atualmente, trabalho como Estagiário de QA no Instituto Atlântico, participando de atividades de validação de software, testes manuais e exploratórios, elaboração de casos de teste e automação de testes de interface utilizando Playwright.
 
-## Sobre mim ##
+Tenho interesse em qualidade de software, automação de testes e melhoria contínua dos processos de desenvolvimento. Também possuo conhecimentos em desenvolvimento web, APIs REST e bancos de dados relacionais e não relacionais.
 
-###
+## 🧪 Atuação em QA
 
-###
+- Testes manuais, exploratórios e funcionais.
+- Análise de histórias de usuário, regras de negócio e critérios de aceitação.
+- Planejamento e elaboração de casos de teste.
+- Automação de testes E2E e de API.
+- Testes unitários e integração contínua (CI/CD).
+- Aplicação de boas práticas de organização e manutenção de testes automatizados.
 
-<p align="left">Estudo programação desde 2019, tenho experiência em progração web, principalmente desevolvimento de API REST com NodeJs. Também tenhho conhecimentos em bancos dados relacionais e não relacionais e em testes automatizados E2E com Cypress, Selenium e Robot Framework e testes unitários com Junit e Jest.</p>
-<p align="left">Minha principal área atualemente é a Qualidade de Software, onde tenho experiência em testes automatizados usando Junit, para testes unitários em Java, e Cypress, para testes E2E tanto para testes de API e Front-end </p>
+## 🚀 Projetos em destaque
 
-###
+### Automação de Testes — Projeto TCC
 
-## Linguagens e tecnologias
-<p> Linguagens de programação: </p> 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java," />
+Projeto de automação de testes para uma aplicação de gerenciamento de casos de teste, utilizando diferentes estratégias de validação.
+
+**Tecnologias:** Playwright, Postman, Newman, k6, GitHub Actions, Allure, Grafana e Docker.
+
+[📂 Acessar repositório](https://github.com/entonymaxwell01/testes-projeto-tcc)
+
+### Automação de Testes E2E — BugBank
+
+Projeto de automação de testes da aplicação BugBank utilizando Cypress e JavaScript, aplicando o padrão Page Object Model (POM), Fixtures, comandos personalizados e geração de relatórios.
+
+**Tecnologias:** Cypress, JavaScript, Faker.js, Mochawesome, Allure e GitHub Actions.
+
+[📂 Acessar repositório](https://github.com/entonymaxwell01/testes-bugbank-cypress)
+
+## 🛠️ Tecnologias e ferramentas
+
+**Automação e testes**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Linguagens de programação**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Desenvolvimento, banco de dados e CI/CD**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=entonymaxwell01&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub"/>
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=entonymaxwell01&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Linguagens mais utilizadas"/>
 </div>
-<br>
 
+## 📫 Contato
 
-<p> Ferramentas de teste: </p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/entony-maxwell/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/entonymaxwell01)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman" />
-</div>
-<br>
-
-<p> Bancos de dados: </p> 
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</div>
-
-## Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=entonymaxwell01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=entonymaxwell01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=entonymaxwell01&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
-
-
+📧 **Email:** entonymaxwell01@gmail.com
