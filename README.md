@@ -2,22 +2,13 @@
 
 ### Quality Assurance | Test Automation | Software Engineering
 
-<p align="left">
-  <a href="https://entonymaxwell01.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/entony-maxwell/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 Sou graduando em Engenharia de Software pela Universidade Federal do Ceará (UFC) e Técnico em Informática, com atuação na área de Quality Assurance.
 
 Atualmente, trabalho como Estagiário de QA no Instituto Atlântico, participando de atividades de validação de software, testes manuais e exploratórios, elaboração de casos de teste e automação de testes de interface utilizando Playwright.
 
 Tenho interesse em qualidade de software, automação de testes e melhoria contínua dos processos de desenvolvimento. Também possuo conhecimentos em desenvolvimento web, APIs REST e bancos de dados relacionais e não relacionais.
 
-
+🌐 **Portfólio profissional:** [Conheça meus projetos e experiências](https://entonymaxwell01.github.io)
 
 ## 🧪 Atuação em QA
 
