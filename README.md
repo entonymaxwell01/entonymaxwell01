@@ -1,7 +1,15 @@
-
 # Olá! Eu sou Entony Maxwell 👋
 
 ### Quality Assurance | Test Automation | Software Engineering
+
+<p align="left">
+  <a href="https://entonymaxwell01.github.io">
+    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/entony-maxwell/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 Sou graduando em Engenharia de Software pela Universidade Federal do Ceará (UFC) e Técnico em Informática, com atuação na área de Quality Assurance.
 
